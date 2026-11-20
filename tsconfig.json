@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
 
-    "outDir": "./",
+    "outDir": "./public",
+    "rootDir": ".",
     "target": "es6",
-    "lib":  ["DOM", "ES6", "ES2015", "ES2016", "ES2017"],
+    "lib":  ["DOM", "ES2015", "ES2016", "ES2017"],
     "skipLibCheck": true,
     "strict": true,
    
